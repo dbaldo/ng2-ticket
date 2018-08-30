@@ -1,0 +1,24 @@
+{
+    "header": {
+        "search": {
+            "PLACEHOLDER": "Digite ou tecle enter.."
+        }
+    },
+    "offsidebar": {
+        "setting": {
+            "SETTINGS": "Configurações"
+        }
+    },
+    "sidebar": {
+        "WELCOME": "Bem vindo",
+        "heading": {
+            "HEADER": "Menu Principal"
+        },
+        "nav": {
+            "SINGLEVIEW": "Single View"
+        }
+    },
+    "dashboard": {
+        "WELCOME": "Bem vindo"
+    }
+}
