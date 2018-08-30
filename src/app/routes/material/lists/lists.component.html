@@ -1,11 +1,11 @@
 <div class="content-heading">Tickets</div>
 <div class="container-lg">
     <div class="md-card">
-        <div class="md-card-subheader">Todos Abertos</div>
+        <div class="md-card-subheader">Total de {{tickets.length}} tickets abertos</div>
         <div class="mda-list" >
             <div *ngFor='let item of tickets' class="mda-list-item">
                 <div class="mda-list-item-icon bg-primary">
-                    <em class="fa fa-star fa-md"></em>
+                    <em class="fa fa-star fa-lg"></em>
                 </div>
                 <div class="mda-list-item-text mda-2-line">
                     <h3>{{item.ticket}}</h3><small>{{item.cidade}}</small>
